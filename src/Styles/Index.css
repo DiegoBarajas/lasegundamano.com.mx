@@ -1,0 +1,13 @@
+@import url('../index.css');
+
+.body-index {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.body-index img {
+    width: 350px;
+    filter: drop-shadow(5px 5px rgba(0, 0, 0, 0.20));
+}
